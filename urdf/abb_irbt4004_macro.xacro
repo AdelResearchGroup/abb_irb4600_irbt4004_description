@@ -84,7 +84,7 @@
         <origin xyz="0 0 0" rpy="0 0 0"/>
     </joint>
 
-    <joint name="${prefix}ext_1" type="prismatic">
+    <joint name="joint_${prefix}ext_1" type="prismatic">
       <parent link="${prefix}track"/>
       <child link="${prefix}carriage"/>
       <origin xyz="0 0 0" rpy="0 0 0"/>
