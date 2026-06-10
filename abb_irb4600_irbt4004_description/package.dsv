@@ -1,0 +1,9 @@
+source;share/abb_irb4600_irbt4004_description/hook/pythonpath.ps1
+source;share/abb_irb4600_irbt4004_description/hook/pythonpath.dsv
+source;share/abb_irb4600_irbt4004_description/hook/pythonpath.sh
+source;share/abb_irb4600_irbt4004_description/hook/ament_prefix_path.ps1
+source;share/abb_irb4600_irbt4004_description/hook/ament_prefix_path.dsv
+source;share/abb_irb4600_irbt4004_description/hook/ament_prefix_path.sh
+source;../../build/abb_irb4600_irbt4004_description/share/abb_irb4600_irbt4004_description/hook/pythonpath_develop.ps1
+source;../../build/abb_irb4600_irbt4004_description/share/abb_irb4600_irbt4004_description/hook/pythonpath_develop.dsv
+source;../../build/abb_irb4600_irbt4004_description/share/abb_irb4600_irbt4004_description/hook/pythonpath_develop.sh
